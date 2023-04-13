@@ -38,7 +38,7 @@ const Home: NextPage = () => {
   return (
     <div className="container mx-auto px-4 py-8">
       <p className="mb-4">
-        ※一番最初はコンテナ起動に時間かかるため、少し時間がかかります（1分ほど）。
+        ※一番最初はコンテナ起動に時間かかるため、採点に少し時間がかかります（1分ほど）。
       </p>
       <p className="font-bold mb-4">
         問題：{`{ }`}内を修正し、aとbを足した数を返す関数を実装せよ
